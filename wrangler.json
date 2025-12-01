@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "file",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "94ec86a2-1fa5-4591-822b-dfc15c2ab01a",
+      "database_name": "file-store-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}

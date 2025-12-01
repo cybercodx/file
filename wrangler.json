@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-10-08",
   "main": "src/index.ts",
-  "name": "file",
+  "name": "file-store-bot",
   "upload_source_maps": true,
   "d1_databases": [
     {
@@ -12,5 +12,11 @@
   ],
   "observability": {
     "enabled": true
+  },
+  "vars": {
+    "BOT_TOKEN": "8437630406:AAEHTmH6WMjZlo_8KzTTOWfPDz2Xy596Ipg",
+    "BOT_USERNAME": "FileNestPlusBot",
+    "FORCE_CHANNEL": "@drkingbd",
+    "ADMIN_SECRET": "mysecretpassword"
   }
 }
